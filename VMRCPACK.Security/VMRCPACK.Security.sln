@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMRCPACK.Security.Crypt", "VMRCPACK.Security.Crypt\VMRCPACK.Security.Crypt.csproj", "{CEA294C3-1901-4218-9F30-38169F6CBF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMRCPACK.Security.Test", "VMRCPACK.Security.Test\VMRCPACK.Security.Test.csproj", "{5BC7AAB5-146D-458E-81AD-D8822FA75529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMRCPACK.Security.CryptStd", "VMRCPACK.Security.CryptStd\VMRCPACK.Security.CryptStd.csproj", "{7BD03477-7C73-4648-A1B1-9A467303FDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA294C3-1901-4218-9F30-38169F6CBF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA294C3-1901-4218-9F30-38169F6CBF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA294C3-1901-4218-9F30-38169F6CBF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA294C3-1901-4218-9F30-38169F6CBF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC7AAB5-146D-458E-81AD-D8822FA75529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC7AAB5-146D-458E-81AD-D8822FA75529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC7AAB5-146D-458E-81AD-D8822FA75529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC7AAB5-146D-458E-81AD-D8822FA75529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD03477-7C73-4648-A1B1-9A467303FDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD03477-7C73-4648-A1B1-9A467303FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD03477-7C73-4648-A1B1-9A467303FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD03477-7C73-4648-A1B1-9A467303FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DDE300-DBBD-4B24-BFDB-0202E51209A1}
+	EndGlobalSection
+EndGlobal
